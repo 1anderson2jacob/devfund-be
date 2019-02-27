@@ -19,7 +19,7 @@
   "homepage": "https://github.com/jbjbg/devfund-be#readme",
   "dependencies": {
     "node": "^10.15.1",
-    "npm": "^6.5.0",
+    "npm": "^6.0.0",
     "bcrypt": "https://github.com/kelektiv/node.bcrypt.js/tarball/v3.0.4",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
